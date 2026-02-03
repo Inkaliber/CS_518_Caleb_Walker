@@ -1,0 +1,1 @@
+This assignment program requires junit from Maven but is run on IntelliJ.
