@@ -1,0 +1,10 @@
+[package]
+name = "CWalker-CS518-Assignment4"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[lib]
+name = "assignment4"
+path = "src/xorlist.rs"
