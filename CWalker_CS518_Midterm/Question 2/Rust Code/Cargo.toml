@@ -1,0 +1,6 @@
+[package]
+name = "CWalker_CS518_Midterm_Questions"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

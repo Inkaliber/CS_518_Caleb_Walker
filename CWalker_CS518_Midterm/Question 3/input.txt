@@ -1,0 +1,9 @@
+   Hello, world!   
+
+This line has leading spaces.
+      This line has both leading and trailing spaces.     
+
+    
+Already clean line
+  	 
+    Another useful line.    
